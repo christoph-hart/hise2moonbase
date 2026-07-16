@@ -12,8 +12,8 @@
   <AdditionalDspLibraries value=""/>
   <OSXStaticLibs value=""/>
   <WindowsStaticLibFolder value=""/>
-  <ExtraDefinitionsWindows value="USE_COPY_PROTECTION=1&#10;USE_SCRIPT_COPY_PROTECTION=1&#10;HISE_USE_MOONBASE=1&#10;HISE_DEACTIVATE_OVERLAY=1&#10;"/>
-  <ExtraDefinitionsOSX value=""/>
+  <ExtraDefinitionsWindows value="USE_COPY_PROTECTION=1&#10;USE_SCRIPT_COPY_PROTECTION=1&#10;HISE_USE_MOONBASE=1&#10;HISE_DEACTIVATE_OVERLAY=1&#10;HISE_USE_MOONBASE_WITH_HISE_MANAGED=0"/>
+  <ExtraDefinitionsOSX value="USE_COPY_PROTECTION=1&#10;USE_SCRIPT_COPY_PROTECTION=1&#10;HISE_USE_MOONBASE=1&#10;HISE_DEACTIVATE_OVERLAY=1&#10;HISE_USE_MOONBASE_WITH_HISE_MANAGED=0"/>
   <ExtraDefinitionsIOS value=""/>
   <ExtraDefinitionsLinux value=""/>
   <ExtraDefinitionsNetworkDll value=""/>

@@ -136,4 +136,10 @@ void MoonbaseUnlocker::RefObject::performMoonbaseOp(int opType_, const var& lice
 
 }
 
+// this needs to be defined in order to prevent a linker error on macOS
+juce::RSAKey ScriptUnlocker::getPublicKey()
+{
+    return RSAKey();
+}
+
 } // namespace hise

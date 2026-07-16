@@ -27,9 +27,6 @@ This file is not part of the open source HISE code base, but only accessible for
 #error "You need to define HISE_USE_MOONBASE=1 in your extra definitions"
 #endif
 
-// delete later lol...
-#define HISE_USE_MOONBASE_WITH_HISE_MANAGED 0
-
 #ifndef HISE_USE_MOONBASE_WITH_HISE_MANAGED
 #error "You need to define this macro with either 0 or 1 to explicitely state whether this product uses the HISE Managed license"
 #endif
