@@ -73,11 +73,11 @@ Here are two example JSON data blobs for the input / response from Moonbase.
 
 ```json
 {
-	endpoint: "https://demo.moonbase.sh", // the moonbase URL
-	product_id: "demo-app",				  // your product id
-	account_id: "account-id",			  // your account id
-	use_keyfile: true                     // optional, defaults to true
-};
+	"endpoint":   "https://demo.moonbase.sh", // the moonbase URL
+	"product_id": "demo-app",				  // your product id
+	"account_id": "account-id",			  // your account id
+	"use_keyfile": true                     // optional, defaults to true
+}
 ```
 
 **Licensing data** (Response from Moonbase)
