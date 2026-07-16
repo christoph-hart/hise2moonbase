@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptLabel" id="Label1" x="103" y="50" width="398" bgColour="4294901760"
+             height="438" multiline="1" text="&quot;not initialised&quot;"
+             alignment="left" fontName="Source Code Pro"/>
+  <Component type="ScriptButton" id="ActivateButton" x="250" y="528" text="Activate"
+             height="28" saveInPreset="0" enableMidiLearn="0" isMomentary="1"/>
+  <Component type="ScriptButton" id="RevokeButton" x="400" y="528" text="Revoke"
+             height="28" saveInPreset="0" enableMidiLearn="0" isMomentary="1"/>
+  <Component type="ScriptButton" id="RegisterButton" x="100" y="528" text="Register"
+             height="28" saveInPreset="0" enableMidiLearn="0" isMomentary="1"/>
+</ContentProperties>
