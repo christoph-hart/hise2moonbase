@@ -1,0 +1,3 @@
+[submodule "AdditionalSourceCode/moonbase-cpp"]
+	path = AdditionalSourceCode/moonbase-cpp
+	url = https://github.com/christoph-hart/moonbase-cpp.git
